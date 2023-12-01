@@ -33,3 +33,8 @@
 ![-VAHID-IRP's GitHub stats](https://github-readme-stats.vercel.app/api?username=vahidirp&show=discussions_answered,prs_merged&show_icons=true&theme=highcontrast) 
 ![-VAHID-IRP's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vahidirp&theme=highcontrast)
 
+
+## Social Links :
+### ![Reddit](https://www.reddit.com/user/-VAHID-PierrO)
+
+### ![Medium](https://medium.com/@community.vahid)
