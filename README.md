@@ -36,7 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vahidirp&show=discussions_answered,prs_merged&show_icons=true&theme=highcontrast" alt="-VAHID-IRP's Github Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vahidirp&theme=highcontrast" alt="-VAHID-IRP's Streak Stats">
 </div>
-<br>
     
 ## Social Links :
 
