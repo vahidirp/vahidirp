@@ -35,6 +35,5 @@
 
 
 ## Social Links :
-### [Reddit](https://www.reddit.com/user/-VAHID-PierrO)
 
 ### [Medium](https://medium.com/@community.vahid)
