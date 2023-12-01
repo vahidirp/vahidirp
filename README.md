@@ -29,5 +29,5 @@
 ![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 
 
-![-VAHID-IRP's GitHub stats](https://github-readme-stats.vercel.app/api?username=vahidirp&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=highcontrast)
+![-VAHID-IRP's GitHub stats](https://github-readme-stats.vercel.app/api?username=vahidirp&show=discussions_answered,prs_merged&show_icons=true&theme=highcontrast)
 
