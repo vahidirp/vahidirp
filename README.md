@@ -31,10 +31,13 @@
 ![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 
 ## Stats :
-![-VAHID-IRP's GitHub stats](https://github-readme-stats.vercel.app/api?username=vahidirp&show=discussions_answered,prs_merged&show_icons=true&theme=highcontrast)
-![-VAHID-IRP's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vahidirp&theme=highcontrast)
-
-
+<div align="center">
+  <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=vahidirp&show=discussions_answered,prs_merged&show_icons=true&theme=highcontrast" alt="-VAHID-IRP's Github Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vahidirp&theme=highcontrast" alt="-VAHID-IRP's Streak Stats">
+</div>
+<br>
+    
 ## Social Links :
 
 ### [Medium](https://medium.com/@community.vahid)
