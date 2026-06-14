@@ -1,7 +1,6 @@
 ### Hi there 👋 
 #### I am Vahid and I am working here in the field of DevOps Engineering. I am happy to participate in discussions.
-### Page visitor counter
-![visitor counter](https://profile-counter.glitch.me/vahidirp/count.svg)
+
 ## Cloud Experiences :
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
